@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+
+# C/C++
+*.o
+*.out
+*.exe
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
