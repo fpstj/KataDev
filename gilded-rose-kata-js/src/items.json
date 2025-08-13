@@ -1,0 +1,3835 @@
+[
+  {
+    "Fruits": [
+      { "name": "Apple", "category": "Fruits", "sellIn": 10, "quality": 18 },
+      { "name": "Banana", "category": "Fruits", "sellIn": 4, "quality": 20 },
+      { "name": "Orange", "category": "Fruits", "sellIn": 8, "quality": 22 },
+      { "name": "Pear", "category": "Fruits", "sellIn": 6, "quality": 19 },
+      { "name": "Peach", "category": "Fruits", "sellIn": 5, "quality": 21 },
+      { "name": "Plum", "category": "Fruits", "sellIn": 7, "quality": 20 },
+      { "name": "Grapes", "category": "Fruits", "sellIn": 5, "quality": 23 },
+      {
+        "name": "Watermelon",
+        "category": "Fruits",
+        "sellIn": 7,
+        "quality": 25
+      },
+      {
+        "name": "Strawberry",
+        "category": "Fruits",
+        "sellIn": 3,
+        "quality": 20
+      },
+      { "name": "Raspberry", "category": "Fruits", "sellIn": 2, "quality": 18 },
+      { "name": "Blueberry", "category": "Fruits", "sellIn": 3, "quality": 19 },
+      {
+        "name": "Blackberry",
+        "category": "Fruits",
+        "sellIn": 3,
+        "quality": 18
+      },
+      { "name": "Cherry", "category": "Fruits", "sellIn": 4, "quality": 20 },
+      { "name": "Fig", "category": "Fruits", "sellIn": 6, "quality": 21 },
+      { "name": "Apricot", "category": "Fruits", "sellIn": 5, "quality": 19 },
+      { "name": "Kiwi", "category": "Fruits", "sellIn": 6, "quality": 20 },
+      { "name": "Melon", "category": "Fruits", "sellIn": 8, "quality": 24 },
+      {
+        "name": "Pomegranate",
+        "category": "Fruits",
+        "sellIn": 9,
+        "quality": 23
+      },
+      { "name": "Lemon", "category": "Fruits", "sellIn": 12, "quality": 26 },
+      { "name": "Lime", "category": "Fruits", "sellIn": 12, "quality": 25 },
+      { "name": "Mandarin", "category": "Fruits", "sellIn": 8, "quality": 22 },
+      {
+        "name": "Gooseberry",
+        "category": "Fruits",
+        "sellIn": 4,
+        "quality": 18
+      },
+      { "name": "Cranberry", "category": "Fruits", "sellIn": 5, "quality": 19 }
+    ]
+  },
+  {
+    "Vegetables": [
+      {
+        "name": "Tomato",
+        "category": "Vegetables",
+        "sellIn": 7,
+        "quality": 20
+      },
+      {
+        "name": "Potato",
+        "category": "Vegetables",
+        "sellIn": 30,
+        "quality": 25
+      },
+      {
+        "name": "Cucumber",
+        "category": "Vegetables",
+        "sellIn": 6,
+        "quality": 18
+      },
+      {
+        "name": "Carrot",
+        "category": "Vegetables",
+        "sellIn": 20,
+        "quality": 22
+      },
+      {
+        "name": "Onion",
+        "category": "Vegetables",
+        "sellIn": 25,
+        "quality": 24
+      },
+      {
+        "name": "Garlic",
+        "category": "Vegetables",
+        "sellIn": 40,
+        "quality": 28
+      },
+      {
+        "name": "Bell Pepper",
+        "category": "Vegetables",
+        "sellIn": 10,
+        "quality": 21
+      },
+      {
+        "name": "Cabbage",
+        "category": "Vegetables",
+        "sellIn": 15,
+        "quality": 19
+      },
+      {
+        "name": "Broccoli",
+        "category": "Vegetables",
+        "sellIn": 8,
+        "quality": 20
+      },
+      {
+        "name": "Cauliflower",
+        "category": "Vegetables",
+        "sellIn": 8,
+        "quality": 20
+      },
+      {
+        "name": "Spinach",
+        "category": "Vegetables",
+        "sellIn": 5,
+        "quality": 17
+      },
+      {
+        "name": "Lettuce",
+        "category": "Vegetables",
+        "sellIn": 5,
+        "quality": 16
+      },
+      {
+        "name": "Zucchini",
+        "category": "Vegetables",
+        "sellIn": 7,
+        "quality": 18
+      },
+      { "name": "Leek", "category": "Vegetables", "sellIn": 14, "quality": 19 },
+      {
+        "name": "Beetroot",
+        "category": "Vegetables",
+        "sellIn": 18,
+        "quality": 21
+      },
+      {
+        "name": "Radish",
+        "category": "Vegetables",
+        "sellIn": 6,
+        "quality": 18
+      },
+      { "name": "Kale", "category": "Vegetables", "sellIn": 6, "quality": 19 },
+      {
+        "name": "Brussels Sprouts",
+        "category": "Vegetables",
+        "sellIn": 10,
+        "quality": 20
+      },
+      {
+        "name": "Eggplant",
+        "category": "Vegetables",
+        "sellIn": 7,
+        "quality": 19
+      },
+      {
+        "name": "Celery",
+        "category": "Vegetables",
+        "sellIn": 12,
+        "quality": 18
+      },
+      {
+        "name": "Green Beans",
+        "category": "Vegetables",
+        "sellIn": 6,
+        "quality": 17
+      },
+      { "name": "Peas", "category": "Vegetables", "sellIn": 5, "quality": 17 },
+      {
+        "name": "Sweet Corn",
+        "category": "Vegetables",
+        "sellIn": 7,
+        "quality": 20
+      },
+      {
+        "name": "Turnip",
+        "category": "Vegetables",
+        "sellIn": 20,
+        "quality": 19
+      }
+    ]
+  },
+  {
+    "Grains": [
+      { "name": "Wheat", "category": "Grains", "sellIn": 180, "quality": 50 },
+      { "name": "Barley", "category": "Grains", "sellIn": 200, "quality": 48 },
+      { "name": "Rye", "category": "Grains", "sellIn": 190, "quality": 46 },
+      { "name": "Oats", "category": "Grains", "sellIn": 150, "quality": 45 },
+      { "name": "Spelt", "category": "Grains", "sellIn": 160, "quality": 44 },
+      {
+        "name": "Buckwheat",
+        "category": "Grains",
+        "sellIn": 170,
+        "quality": 42
+      },
+      { "name": "Millet", "category": "Grains", "sellIn": 140, "quality": 43 },
+      {
+        "name": "Corn (Maize)",
+        "category": "Grains",
+        "sellIn": 120,
+        "quality": 47
+      },
+      {
+        "name": "Durum Wheat",
+        "category": "Grains",
+        "sellIn": 210,
+        "quality": 49
+      },
+      {
+        "name": "Einkorn Wheat",
+        "category": "Grains",
+        "sellIn": 200,
+        "quality": 45
+      },
+      {
+        "name": "Emmer Wheat",
+        "category": "Grains",
+        "sellIn": 190,
+        "quality": 44
+      },
+      { "name": "Quinoa", "category": "Grains", "sellIn": 130, "quality": 41 },
+      {
+        "name": "Triticale",
+        "category": "Grains",
+        "sellIn": 170,
+        "quality": 43
+      },
+      {
+        "name": "Pearl Barley",
+        "category": "Grains",
+        "sellIn": 150,
+        "quality": 42
+      },
+      {
+        "name": "Rolled Oats",
+        "category": "Grains",
+        "sellIn": 180,
+        "quality": 44
+      },
+      {
+        "name": "Cracked Wheat",
+        "category": "Grains",
+        "sellIn": 160,
+        "quality": 43
+      },
+      { "name": "Bulgur", "category": "Grains", "sellIn": 150, "quality": 42 },
+      {
+        "name": "Semolina",
+        "category": "Grains",
+        "sellIn": 190,
+        "quality": 45
+      },
+      {
+        "name": "Polenta (Cornmeal)",
+        "category": "Grains",
+        "sellIn": 180,
+        "quality": 44
+      },
+      { "name": "Farro", "category": "Grains", "sellIn": 200, "quality": 46 }
+    ]
+  },
+  {
+    "Flours": [
+      {
+        "name": "All-Purpose Flour",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 50
+      },
+      {
+        "name": "Whole Wheat Flour",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 48
+      },
+      {
+        "name": "Rye Flour",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 46
+      },
+      {
+        "name": "Spelt Flour",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 45
+      },
+      {
+        "name": "Buckwheat Flour",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 44
+      },
+      {
+        "name": "Oat Flour",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 43
+      },
+      {
+        "name": "Cornmeal (Maize Flour)",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 47
+      },
+      {
+        "name": "Semolina Flour",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 45
+      },
+      {
+        "name": "Pastry Flour",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 46
+      },
+      {
+        "name": "Bread Flour",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 48
+      },
+      {
+        "name": "Gluten-Free Flour Mix",
+        "category": "Flours",
+        "sellIn": 365,
+        "quality": 42
+      }
+    ]
+  },
+  {
+    "MilkProducts": [
+      {
+        "name": "Milk",
+        "category": "Milk Products",
+        "sellIn": 7,
+        "quality": 30
+      },
+      {
+        "name": "Cream",
+        "category": "Milk Products",
+        "sellIn": 5,
+        "quality": 28
+      },
+      {
+        "name": "Butter",
+        "category": "Milk Products",
+        "sellIn": 30,
+        "quality": 40
+      },
+      {
+        "name": "Cheddar Cheese",
+        "category": "Milk Products",
+        "sellIn": 60,
+        "quality": 50
+      },
+      {
+        "name": "Mozzarella",
+        "category": "Milk Products",
+        "sellIn": 10,
+        "quality": 32
+      },
+      {
+        "name": "Parmesan",
+        "category": "Milk Products",
+        "sellIn": 90,
+        "quality": 55
+      },
+      {
+        "name": "Yogurt",
+        "category": "Milk Products",
+        "sellIn": 14,
+        "quality": 28
+      },
+      {
+        "name": "Sour Cream",
+        "category": "Milk Products",
+        "sellIn": 14,
+        "quality": 27
+      },
+      {
+        "name": "Cream Cheese",
+        "category": "Milk Products",
+        "sellIn": 14,
+        "quality": 28
+      },
+      {
+        "name": "Goat Cheese",
+        "category": "Milk Products",
+        "sellIn": 20,
+        "quality": 30
+      },
+      {
+        "name": "Cottage Cheese",
+        "category": "Milk Products",
+        "sellIn": 10,
+        "quality": 25
+      },
+      {
+        "name": "Feta Cheese",
+        "category": "Milk Products",
+        "sellIn": 20,
+        "quality": 32
+      },
+      {
+        "name": "Blue Cheese",
+        "category": "Milk Products",
+        "sellIn": 30,
+        "quality": 35
+      },
+      {
+        "name": "Ricotta",
+        "category": "Milk Products",
+        "sellIn": 10,
+        "quality": 28
+      },
+      {
+        "name": "Mascarpone",
+        "category": "Milk Products",
+        "sellIn": 12,
+        "quality": 30
+      }
+    ]
+  },
+  {
+    "Delicates": [
+      {
+        "name": "Prosciutto",
+        "category": "Delicates",
+        "sellIn": 30,
+        "quality": 45
+      },
+      {
+        "name": "Bresaola",
+        "category": "Delicates",
+        "sellIn": 25,
+        "quality": 42
+      },
+      {
+        "name": "Mortadella",
+        "category": "Delicates",
+        "sellIn": 20,
+        "quality": 40
+      },
+      {
+        "name": "Salami Milano",
+        "category": "Delicates",
+        "sellIn": 35,
+        "quality": 44
+      },
+      {
+        "name": "Chorizo",
+        "category": "Delicates",
+        "sellIn": 40,
+        "quality": 43
+      },
+      {
+        "name": "Serrano Ham",
+        "category": "Delicates",
+        "sellIn": 30,
+        "quality": 46
+      },
+      {
+        "name": "Pancetta",
+        "category": "Delicates",
+        "sellIn": 25,
+        "quality": 42
+      },
+      {
+        "name": "Gouda Cheese (Aged)",
+        "category": "Delicates",
+        "sellIn": 60,
+        "quality": 50
+      },
+      {
+        "name": "Parmesan Cheese",
+        "category": "Delicates",
+        "sellIn": 90,
+        "quality": 55
+      },
+      {
+        "name": "Roquefort",
+        "category": "Delicates",
+        "sellIn": 50,
+        "quality": 48
+      },
+      {
+        "name": "Camembert",
+        "category": "Delicates",
+        "sellIn": 20,
+        "quality": 40
+      },
+      { "name": "Brie", "category": "Delicates", "sellIn": 18, "quality": 39 },
+      {
+        "name": "Blue Cheese",
+        "category": "Delicates",
+        "sellIn": 25,
+        "quality": 45
+      },
+      {
+        "name": "Smoked Salmon",
+        "category": "Delicates",
+        "sellIn": 10,
+        "quality": 38
+      },
+      {
+        "name": "Foie Gras",
+        "category": "Delicates",
+        "sellIn": 15,
+        "quality": 50
+      },
+      {
+        "name": "Truffle Cheese",
+        "category": "Delicates",
+        "sellIn": 30,
+        "quality": 48
+      },
+      { "name": "Speck", "category": "Delicates", "sellIn": 35, "quality": 44 },
+      { "name": "Coppa", "category": "Delicates", "sellIn": 30, "quality": 43 }
+    ]
+  },
+  {
+    "Meat": {
+      "Poultry": [
+        {
+          "name": "Chicken Whole",
+          "category": "Poultry",
+          "sellIn": 5,
+          "quality": 25
+        },
+        {
+          "name": "Chicken Breasts",
+          "category": "Poultry",
+          "sellIn": 4,
+          "quality": 24
+        },
+        {
+          "name": "Chicken Thighs",
+          "category": "Poultry",
+          "sellIn": 4,
+          "quality": 24
+        },
+        { "name": "Turkey", "category": "Poultry", "sellIn": 6, "quality": 26 },
+        { "name": "Duck", "category": "Poultry", "sellIn": 5, "quality": 25 },
+        { "name": "Quail", "category": "Poultry", "sellIn": 3, "quality": 23 },
+        { "name": "Goose", "category": "Poultry", "sellIn": 6, "quality": 27 },
+        {
+          "Eggs": [
+            {
+              "name": "Eggs x6",
+              "category": "Eggs",
+              "sellIn": 14,
+              "quality": 30
+            },
+            {
+              "name": "Eggs x10",
+              "category": "Eggs",
+              "sellIn": 14,
+              "quality": 32
+            },
+            {
+              "name": "Eggs x12",
+              "category": "Eggs",
+              "sellIn": 14,
+              "quality": 33
+            },
+            {
+              "name": "Eggs x16",
+              "category": "Eggs",
+              "sellIn": 14,
+              "quality": 35
+            },
+            {
+              "name": "Eggs x30",
+              "category": "Eggs",
+              "sellIn": 14,
+              "quality": 40
+            }
+          ]
+        }
+      ],
+      "Pork": [
+        { "name": "Pork Chop", "category": "Pork", "sellIn": 5, "quality": 26 },
+        { "name": "Pork Loin", "category": "Pork", "sellIn": 6, "quality": 27 },
+        { "name": "Bacon", "category": "Pork", "sellIn": 14, "quality": 30 },
+        { "name": "Ham", "category": "Pork", "sellIn": 20, "quality": 32 }
+      ],
+      "Beef": [
+        {
+          "name": "Beef Steak",
+          "category": "Beef",
+          "sellIn": 7,
+          "quality": 28
+        },
+        {
+          "name": "Ground Beef",
+          "category": "Beef",
+          "sellIn": 4,
+          "quality": 25
+        },
+        { "name": "Roast Beef", "category": "Beef", "sellIn": 6, "quality": 27 }
+      ],
+      "Lamb": [
+        {
+          "name": "Lamb Chops",
+          "category": "Lamb",
+          "sellIn": 5,
+          "quality": 27
+        },
+        { "name": "Lamb Leg", "category": "Lamb", "sellIn": 6, "quality": 28 },
+        {
+          "name": "Lamb Shoulder",
+          "category": "Lamb",
+          "sellIn": 7,
+          "quality": 26
+        }
+      ],
+      "Specialties": [
+        {
+          "name": "Rabbit",
+          "category": "Specialties",
+          "sellIn": 4,
+          "quality": 25
+        },
+        {
+          "name": "Venison (Deer)",
+          "category": "Specialties",
+          "sellIn": 6,
+          "quality": 28
+        },
+        {
+          "name": "Wild Boar",
+          "category": "Specialties",
+          "sellIn": 6,
+          "quality": 27
+        },
+        {
+          "name": "Goose",
+          "category": "Specialties",
+          "sellIn": 5,
+          "quality": 26
+        },
+        {
+          "name": "Horse",
+          "category": "Specialties",
+          "sellIn": 5,
+          "quality": 25
+        },
+        {
+          "name": "Pheasant",
+          "category": "Specialties",
+          "sellIn": 4,
+          "quality": 24
+        }
+      ]
+    }
+  },
+  {
+    "Beverages": {
+      "Water": [
+        {
+          "name": "Evian Still Water 0.33L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Nestlé Still Water 0.5L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Volvic Still Water 1L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "San Benedetto Still Water 1.5L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Aqua Panna Still Water 5L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Perrier Sparkling Water 0.33L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "San Pellegrino Sparkling Water 0.5L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Gerolsteiner Sparkling Water 1L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Apollinaris Sparkling Water 1.5L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Vichy Catalan Sparkling Water 5L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Borjomi Mineral Water 0.5L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Römerquelle Mineral Water 1.5L",
+          "category": "Water",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Volvic Flavored Water Lemon 0.5L",
+          "category": "Water",
+          "sellIn": 180,
+          "quality": 48
+        },
+        {
+          "name": "Nestlé Flavored Water Berry 0.5L",
+          "category": "Water",
+          "sellIn": 180,
+          "quality": 48
+        },
+        {
+          "name": "San Benedetto Flavored Water Orange 0.5L",
+          "category": "Water",
+          "sellIn": 180,
+          "quality": 48
+        }
+      ]
+    },
+    "Juices": [
+      {
+        "name": "Granini Orange Juice 1L",
+        "category": "Juices",
+        "sellIn": 14,
+        "quality": 40
+      },
+      {
+        "name": "Granini Apple Juice 1L",
+        "category": "Juices",
+        "sellIn": 14,
+        "quality": 38
+      },
+      {
+        "name": "Pago Multivitamin Juice 1L",
+        "category": "Juices",
+        "sellIn": 14,
+        "quality": 39
+      },
+      {
+        "name": "Granini Grape Juice 1L",
+        "category": "Juices",
+        "sellIn": 14,
+        "quality": 37
+      },
+      {
+        "name": "Rauch Carrot Juice 0.5L",
+        "category": "Juices",
+        "sellIn": 10,
+        "quality": 35
+      },
+      {
+        "name": "Hohes C Orange Juice 0.5L",
+        "category": "Juices",
+        "sellIn": 10,
+        "quality": 36
+      },
+      {
+        "name": "Rauch Apple Juice 0.5L",
+        "category": "Juices",
+        "sellIn": 10,
+        "quality": 36
+      },
+      {
+        "name": "Granini Pineapple Juice 1L",
+        "category": "Juices",
+        "sellIn": 14,
+        "quality": 38
+      },
+      {
+        "name": "Pago Tomato Juice 0.5L",
+        "category": "Juices",
+        "sellIn": 10,
+        "quality": 34
+      },
+      {
+        "name": "Hohes C Orange-Carrot Juice 1L",
+        "category": "Juices",
+        "sellIn": 14,
+        "quality": 39
+      }
+    ],
+    "SoftDrinks": [
+      {
+        "name": "Coca-Cola Classic 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 45
+      },
+      {
+        "name": "Coca-Cola Classic 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 45
+      },
+      {
+        "name": "Coca-Cola Diet 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 44
+      },
+      {
+        "name": "Coca-Cola Diet 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 44
+      },
+      {
+        "name": "Coca-Cola Zero 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 44
+      },
+      {
+        "name": "Coca-Cola Zero 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 44
+      },
+      {
+        "name": "Coca-Cola Lemon 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 43
+      },
+      {
+        "name": "Coca-Cola Lemon 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 43
+      },
+      {
+        "name": "Coca-Cola Caffeine Free 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 43
+      },
+
+      {
+        "name": "Pepsi 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 44
+      },
+      {
+        "name": "Pepsi 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 44
+      },
+      {
+        "name": "Pepsi Light 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 43
+      },
+      {
+        "name": "Pepsi Light 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 43
+      },
+      {
+        "name": "Pepsi Max 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 43
+      },
+      {
+        "name": "Pepsi Max 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 43
+      },
+
+      {
+        "name": "Sprite 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 43
+      },
+      {
+        "name": "Sprite 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 43
+      },
+      {
+        "name": "Sprite Zero 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 42
+      },
+      {
+        "name": "Sprite Zero 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 42
+      },
+      {
+        "name": "Sprite Lemon 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 42
+      },
+
+      {
+        "name": "Mountain Dew 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 42
+      },
+      {
+        "name": "Mountain Dew 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 42
+      },
+      {
+        "name": "Mountain Dew Diet 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 41
+      },
+      {
+        "name": "Mountain Dew Diet 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 41
+      },
+
+      {
+        "name": "Schweppes Tonic Water 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 40
+      },
+      {
+        "name": "Schweppes Lemonade 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 40
+      },
+      {
+        "name": "Schweppes Bitter Lemon 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 40
+      },
+      {
+        "name": "Schweppes Ginger Ale 0.33L",
+        "category": "SoftDrinks",
+        "sellIn": 180,
+        "quality": 40
+      },
+
+      {
+        "name": "Granini Multivitamin Drink 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 120,
+        "quality": 41
+      },
+      {
+        "name": "Hohes C Multivitamin Drink 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 120,
+        "quality": 41
+      },
+      {
+        "name": "Granini Lemonade 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 120,
+        "quality": 39
+      },
+      {
+        "name": "Rauch Aloe Vera Drink 0.5L",
+        "category": "SoftDrinks",
+        "sellIn": 120,
+        "quality": 38
+      },
+      {
+        "name": "Alpro Almond Drink 1L",
+        "category": "SoftDrinks",
+        "sellIn": 120,
+        "quality": 37
+      }
+    ],
+
+    "Alcohol": {
+      "Beer": [
+        {
+          "name": "Carlsberg Pilsner 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 40
+        },
+        {
+          "name": "Carlsberg Pilsner 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 40
+        },
+        {
+          "name": "Carlsberg Elephant 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 42
+        },
+        {
+          "name": "Carlsberg Elephant 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 42
+        },
+        {
+          "name": "Peroni Nastro Azzurro 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 41
+        },
+        {
+          "name": "Peroni Nastro Azzurro 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 41
+        },
+        {
+          "name": "Birra Moretti L'Autentica 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 40
+        },
+        {
+          "name": "Birra Moretti L'Autentica 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 40
+        },
+        {
+          "name": "Tuborg Green 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 39
+        },
+        {
+          "name": "Tuborg Green 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 39
+        },
+        {
+          "name": "Heineken 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 40
+        },
+        {
+          "name": "Heineken 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 40
+        },
+        {
+          "name": "Stella Artois 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 38
+        },
+        {
+          "name": "Stella Artois 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 38
+        },
+        {
+          "name": "Skopsko 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 42
+        },
+        {
+          "name": "Skopsko 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 42
+        },
+        {
+          "name": "Zlaten Dab 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 42
+        },
+        {
+          "name": "Zlaten Dab 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 42
+        },
+        {
+          "name": "Unior 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 41
+        },
+        {
+          "name": "Unior 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 41
+        },
+        {
+          "name": "Laško 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 41
+        },
+        {
+          "name": "Laško 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 41
+        },
+        {
+          "name": "Pilsner Urquell 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 40
+        },
+        {
+          "name": "Pilsner Urquell 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 40
+        },
+        {
+          "name": "Budweiser 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 39
+        },
+        {
+          "name": "Budweiser 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 39
+        },
+        {
+          "name": "Carlsberg Light 0.33L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 38
+        },
+        {
+          "name": "Carlsberg Light 0.5L",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 38
+        },
+        {
+          "name": "Peroni Nastro Azzurro 0.33L Alcohol-Free",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 37
+        },
+        {
+          "name": "Peroni Nastro Azzurro 0.5L Alcohol-Free",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 37
+        },
+        {
+          "name": "Birra Moretti 0.33L Alcohol-Free",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 36
+        },
+        {
+          "name": "Birra Moretti 0.5L Alcohol-Free",
+          "category": "Beer",
+          "sellIn": 180,
+          "quality": 36
+        }
+      ],
+      "Wines": [
+        {
+          "Wine": [
+            {
+              "name": "Tikveš Vranec 0.75L",
+              "category": "Wine",
+              "sellIn": 730,
+              "quality": 50
+            },
+            {
+              "name": "Tikveš Barovo Red 0.75L",
+              "category": "Wine",
+              "sellIn": 730,
+              "quality": 48
+            },
+            {
+              "name": "Tikveš Bela Voda White 0.75L",
+              "category": "Wine",
+              "sellIn": 730,
+              "quality": 47
+            },
+            {
+              "name": "Stobi Vranec Veritas Reserve 0.75L",
+              "category": "Wine",
+              "sellIn": 730,
+              "quality": 52
+            },
+            {
+              "name": "Stobi Semi Dry Rosé 0.75L",
+              "category": "Wine",
+              "sellIn": 730,
+              "quality": 46
+            },
+            {
+              "name": "Skovin Finest Selection Syrah-Cabernet 0.75L",
+              "category": "Wine",
+              "sellIn": 730,
+              "quality": 49
+            },
+            {
+              "name": "Skovin Chardonnay Barrique 0.75L",
+              "category": "Wine",
+              "sellIn": 730,
+              "quality": 47
+            },
+            {
+              "name": "Château Margaux 0.75L",
+              "category": "Wine",
+              "sellIn": 1825,
+              "quality": 60
+            },
+            {
+              "name": "Barolo Fontanafredda 0.75L",
+              "category": "Wine",
+              "sellIn": 1825,
+              "quality": 58
+            },
+            {
+              "name": "Bordeaux Château Lafite Rothschild 0.75L",
+              "category": "Wine",
+              "sellIn": 1825,
+              "quality": 62
+            },
+            {
+              "name": "Penfolds Grange 0.75L",
+              "category": "Wine",
+              "sellIn": 1825,
+              "quality": 61
+            },
+            {
+              "name": "Antinori Tignanello 0.75L",
+              "category": "Wine",
+              "sellIn": 1825,
+              "quality": 59
+            }
+          ],
+          "Sparkling": [
+            {
+              "name": "Prosecco Valdobbiadene 0.75L",
+              "category": "Sparkling",
+              "sellIn": 365,
+              "quality": 50
+            },
+            {
+              "name": "Freixenet Cordon Negro Brut 0.75L",
+              "category": "Sparkling",
+              "sellIn": 365,
+              "quality": 48
+            },
+            {
+              "name": "Mionetto Prosecco DOC 0.75L",
+              "category": "Sparkling",
+              "sellIn": 365,
+              "quality": 49
+            },
+            {
+              "name": "Martini Asti 0.75L",
+              "category": "Sparkling",
+              "sellIn": 365,
+              "quality": 47
+            }
+          ],
+          "Champagne": [
+            {
+              "name": "Moët & Chandon Brut Impérial 0.75L",
+              "category": "Champagne",
+              "sellIn": 730,
+              "quality": 60
+            },
+            {
+              "name": "Veuve Clicquot Yellow Label 0.75L",
+              "category": "Champagne",
+              "sellIn": 730,
+              "quality": 61
+            },
+            {
+              "name": "Dom Pérignon Vintage 0.75L",
+              "category": "Champagne",
+              "sellIn": 1825,
+              "quality": 65
+            },
+            {
+              "name": "Krug Grande Cuvée 0.75L",
+              "category": "Champagne",
+              "sellIn": 1825,
+              "quality": 64
+            }
+          ]
+        }
+      ],
+      "Spirits": [
+        {
+          "name": "Absolut Vodka 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Smirnoff Vodka 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Grey Goose 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 58
+        },
+        {
+          "name": "Russian Standard 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 52
+        },
+
+        {
+          "name": "Jack Daniel's 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 57
+        },
+        {
+          "name": "Jameson 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 56
+        },
+        {
+          "name": "Johnnie Walker Black Label 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 58
+        },
+        {
+          "name": "Chivas Regal 12Y 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 57
+        },
+
+        {
+          "name": "Jim Beam 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Wild Turkey 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 54
+        },
+
+        {
+          "name": "Bombay Sapphire 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 56
+        },
+        {
+          "name": "Beefeater 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Tanqueray 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 56
+        },
+
+        {
+          "name": "Bacardi Superior 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Captain Morgan Spiced 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 53
+        },
+
+        {
+          "name": "Jose Cuervo Especial 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Patrón Silver 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 58
+        },
+
+        {
+          "name": "Hennessy VS 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 59
+        },
+        {
+          "name": "Rémy Martin VSOP 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 60
+        },
+        {
+          "name": "Metaxa 5* 0.7L",
+          "category": "Spirits",
+          "sellIn": 1825,
+          "quality": 57
+        }
+      ]
+    }
+  },
+  {
+    "Snacks": {
+      "Chips": [
+        {
+          "name": "Stobi Corn Chips 150g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 40
+        },
+        {
+          "name": "Krash Potato Chips 100g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 39
+        },
+        {
+          "name": "Podravka Paprika Chips 150g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 39
+        },
+        {
+          "name": "Stark Salted Peanuts 200g",
+          "category": "Snacks",
+          "sellIn": 240,
+          "quality": 40
+        },
+
+        {
+          "name": "Lays Classic 150g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 42
+        },
+        {
+          "name": "Lays Salt & Vinegar 150g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 42
+        },
+        {
+          "name": "Doritos Nacho Cheese 150g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 43
+        },
+        {
+          "name": "Pringles Original 165g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 44
+        },
+        {
+          "name": "Pringles Sour Cream & Onion 165g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 44
+        }
+      ],
+
+      "Bars": [
+        {
+          "name": "Vitaminka Choco Bar 50g",
+          "category": "Snacks",
+          "sellIn": 120,
+          "quality": 38
+        },
+        {
+          "name": "Vitaminka Nougat 60g",
+          "category": "Snacks",
+          "sellIn": 120,
+          "quality": 38
+        },
+
+        {
+          "name": "KitKat 4 Finger 41.5g",
+          "category": "Snacks",
+          "sellIn": 240,
+          "quality": 45
+        },
+        {
+          "name": "KitKat White Chocolate 41.5g",
+          "category": "Snacks",
+          "sellIn": 240,
+          "quality": 45
+        },
+        {
+          "name": "Twix 50g",
+          "category": "Snacks",
+          "sellIn": 240,
+          "quality": 45
+        },
+        {
+          "name": "Mars 51g",
+          "category": "Snacks",
+          "sellIn": 240,
+          "quality": 45
+        },
+        {
+          "name": "Snickers 50g",
+          "category": "Snacks",
+          "sellIn": 240,
+          "quality": 45
+        }
+      ],
+
+      "Candy": [
+        {
+          "name": "Swiss Lion Toffee 50g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 37
+        },
+        {
+          "name": "Plazma Mini Candy 100g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 41
+        },
+
+        {
+          "name": "M&M's Chocolate 45g",
+          "category": "Snacks",
+          "sellIn": 240,
+          "quality": 46
+        },
+        {
+          "name": "Toblerone Milk Chocolate 100g",
+          "category": "Snacks",
+          "sellIn": 365,
+          "quality": 47
+        }
+      ],
+
+      "Wafers": [
+        {
+          "name": "Swiss Lion Wafers 45g",
+          "category": "Snacks",
+          "sellIn": 150,
+          "quality": 37
+        },
+        {
+          "name": "Plazma Wafer 50g",
+          "category": "Snacks",
+          "sellIn": 180,
+          "quality": 41
+        },
+
+        {
+          "name": "KitKat 41.5g",
+          "category": "Snacks",
+          "sellIn": 240,
+          "quality": 45
+        }
+      ]
+    }
+  },
+  {
+    "CondimentsAndSpices": {
+      "Spices": [
+        {
+          "name": "Vegeta Original 500g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 730,
+          "quality": 50
+        },
+        {
+          "name": "Podravka Paprika 100g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 730,
+          "quality": 48
+        },
+        {
+          "name": "McCormick Black Pepper 50g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Dukat Paprika Sweet 50g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 730,
+          "quality": 47
+        }
+      ],
+
+      "Sauces": [
+        {
+          "name": "Heinz Ketchup 500ml",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 55
+        },
+        {
+          "name": "Hellmann's Mayonnaise 400ml",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 54
+        },
+        {
+          "name": "Podravka Ajvar Mild 350g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 53
+        },
+        {
+          "name": "Tabasco Original 60ml",
+          "category": "CondimentsAndSpices",
+          "sellIn": 730,
+          "quality": 50
+        },
+        {
+          "name": "Stark Barbecue Sauce 500ml",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 52
+        }
+      ],
+
+      "Herbs": [
+        {
+          "name": "Dukat Oregano 30g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 48
+        },
+        {
+          "name": "McCormick Basil 20g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Podravka Thyme 25g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 47
+        },
+        {
+          "name": "Vegeta Parsley 30g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 48
+        }
+      ],
+
+      "Condiments": [
+        {
+          "name": "Podravka Mustard 200g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Heinz Yellow Mustard 200g",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 52
+        },
+        {
+          "name": "Hellmann's Salad Dressing 250ml",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 53
+        },
+        {
+          "name": "Stark Hot Sauce 150ml",
+          "category": "CondimentsAndSpices",
+          "sellIn": 365,
+          "quality": 51
+        }
+      ]
+    }
+  },
+  {
+    "Toiletry": {
+      "PersonalCare": [
+        {
+          "name": "Dove Original Clean Roll-On Deodorant 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Rexona Invisible Dry Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 48
+        },
+        {
+          "name": "Nivea Men Invisible Black & White Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 49
+        },
+        {
+          "name": "Palmolive Milk & Honey Shower Gel 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 47
+        },
+        {
+          "name": "Dove Men+Care Clean Comfort Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 51
+        },
+        {
+          "name": "Nivea Men Silver Protect Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Rexona Women Aloe Vera Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 49
+        },
+        {
+          "name": "Dove Go Fresh Cucumber & Green Tea Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 52
+        },
+        {
+          "name": "Nivea Men Dry Impact Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Rexona Men Sport Defense Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 51
+        },
+        {
+          "name": "Dove Men+Care Clean Comfort Stick 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Nivea Men Protect & Care Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 52
+        },
+        {
+          "name": "Rexona Women Powder Dry Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 48
+        },
+        {
+          "name": "Dove Men+Care Extra Fresh Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Nivea Men Sensitive Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 49
+        },
+        {
+          "name": "Rexona Women Tropical Roll-On 50ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 47
+        },
+        {
+          "name": "Dove Men+Care Clean Comfort Spray 150ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 51
+        },
+        {
+          "name": "Nivea Men Dry Impact Spray 150ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Rexona Men Sport Defense Spray 150ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 52
+        }
+      ],
+      "OralCare": [
+        {
+          "name": "Colgate Maximum Cavity Protection Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Oral-B CrossAction Toothbrush Medium",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Sensodyne Repair & Protect Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 56
+        },
+        {
+          "name": "Blend-a-Med Complete 7 White Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Colgate Total Original Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Oral-B Pro-Health Toothbrush Soft",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Sensodyne Whitening Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Blend-a-Med 3D White Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Colgate MaxFresh Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Oral-B Charcoal Toothbrush Medium",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Sensodyne Pronamel Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Blend-a-Med Complete 7 Fresh Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Colgate Sensitive Pro-Relief Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Oral-B Deep Clean Toothbrush Medium",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Sensodyne Deep Clean Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Blend-a-Med Complete 7 Protection Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Colgate Advanced Whitening Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Oral-B 3D White Toothbrush Medium",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Sensodyne Repair & Protect Whitening Toothpaste 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 56
+        }
+      ],
+      "HairCare": [
+        {
+          "name": "Schauma Classic Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 48
+        },
+        {
+          "name": "Head & Shoulders Classic Clean Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "L'Oréal Elvive Extraordinary Oil Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 52
+        },
+        {
+          "name": "Garnier Fructis Sleek & Shine Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Pantene Pro-V Classic Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 51
+        },
+        {
+          "name": "Dove Nutritive Solutions Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 53
+        },
+        {
+          "name": "Herbal Essences Bio:Renew Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Aussie Miracle Moist Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 52
+        },
+        {
+          "name": "Tresemmé Moisture Rich Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 51
+        },
+        {
+          "name": "Garnier Whole Blends Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Dove Men+Care Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 53
+        },
+        {
+          "name": "Head & Shoulders 2-in-1 Shampoo & Conditioner 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "L'Oréal Elvive Color Vibrancy Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 52
+        },
+        {
+          "name": "Pantene Pro-V Repair & Protect Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 51
+        },
+        {
+          "name": "Schauma Color Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 48
+        },
+        {
+          "name": "Garnier Fructis Pure Clean Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Herbal Essences Coconut Milk Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 52
+        },
+        {
+          "name": "Aussie 3 Minute Miracle Moist Deep Conditioner 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 51
+        },
+        {
+          "name": "Tresemmé Keratin Smooth Shampoo 250ml",
+          "category": "Toiletry",
+          "sellIn": 365,
+          "quality": 50
+        }
+      ],
+      "SkinCare": [
+        {
+          "name": "Nivea Creme 200ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Garnier Moisturizer 50ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "L'Oréal Revitalift 50ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Nivea Soft Cream 200ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Garnier SkinActive Night Cream 50ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "L'Oréal Hydra Genius 70ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Dove Beauty Cream 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Neutrogena Hydro Boost Gel Cream 50ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Garnier Moisture Bomb 50ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Nivea Q10 Plus Anti-Wrinkle Cream 50ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "L'Oréal Age Perfect 50ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Garnier Light Complete 50ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Dove Nourishing Body Lotion 200ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Nivea Hand Cream 75ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 51
+        },
+        {
+          "name": "Garnier Body Lotion 200ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "L'Oréal Revitalift Eye Cream 15ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Neutrogena Hand Cream 100ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Dove DermaSpa Body Cream 200ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Garnier Aloe Vera Gel 200ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Nivea Soft Shea Butter 200ml",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        }
+      ],
+
+      "FeminineCare": [
+        {
+          "name": "Always Sanitary Pads 10pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Tampax Tampons 8pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 51
+        },
+        {
+          "name": "Carefree Panty Liners 20pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 50
+        },
+        {
+          "name": "Always Ultra Thin Pads 14pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Tampax Pearl Tampons 16pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Carefree Normal Panty Liners 40pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 50
+        },
+        {
+          "name": "Always Maxi Pads 12pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 51
+        },
+        {
+          "name": "Tampax Radiant Tampons 12pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Carefree Daily Fresh Panty Liners 30pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 51
+        },
+        {
+          "name": "Always Night Pads 8pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Tampax Compak Tampons 16pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Carefree Sensitive Panty Liners 20pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 50
+        },
+        {
+          "name": "Always Ultra Night Pads 10pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Tampax Mini Tampons 8pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 51
+        },
+        {
+          "name": "Carefree Ultra Thin Panty Liners 40pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 50
+        },
+        {
+          "name": "Always Discreet Pads 14pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Tampax Pearl Compak 16pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Carefree Fresh Panty Liners 20pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 50
+        },
+        {
+          "name": "Always Thin Pads 12pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 51
+        },
+        {
+          "name": "Tampax Radiant Compact Tampons 12pcs",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        }
+      ],
+
+      "Soaps": [
+        {
+          "name": "Dove Beauty Bar 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Nivea Creme Soft Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Palmolive Milk & Honey Soap 90g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Rexona Soft Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Dove Sensitive Skin Bar 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Nivea Fresh Natural Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Palmolive Naturals Olive Soap 90g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Rexona Aloe Vera Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Dove Go Fresh Cucumber Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Nivea Soft Moisturizing Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Palmolive Citrus Soap 90g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Rexona Powder Fresh Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Dove Deep Moisture Bar 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Nivea Cream Care Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Palmolive Honey & Milk Soap 90g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Rexona Ice Cool Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Dove Original Beauty Bar 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Nivea Extra White Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Palmolive Soft Touch Soap 90g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Rexona Fresh Breeze Soap 100g",
+          "category": "Toiletry",
+          "sellIn": 730,
+          "quality": 52
+        }
+      ]
+    }
+  },
+  {
+    "Cleansers": {
+      "Bathroom": [
+        {
+          "name": "Cif Power & Shine Bathroom Spray 700ml",
+          "brand": "Cif",
+          "category": "Bathroom Cleaner",
+          "image": "https://us.britishessentials.com/products/cif-bathroom-spray-700ml"
+        },
+        {
+          "name": "Cif Original Multi-Purpose Surface Cleaner Cream 500ml",
+          "brand": "Cif",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.walmart.com/ip/Cif-Original-Multi-Purpose-Surface-Cleaner-Cream-With-100-Natural-Particles-500-ml/150444324"
+        },
+        {
+          "name": "Mr. Proper Bathroom Cleaner Spray 500ml",
+          "brand": "Mr. Proper",
+          "category": "Bathroom Cleaner",
+          "image": "https://iponcomp.com/shop/product/mr-proper-bathroom-cleaner-spray-500-ml/1816043"
+        },
+        {
+          "name": "Mr. Proper Bathroom Cleaner Alpine Fresh 800ml",
+          "brand": "Mr. Proper",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.drogeria-vmd.com/mr-proper-koupelna-cistici-prostredek-s-vuni-alpine-fresh-rozprasovac-800-ml/"
+        },
+        {
+          "name": "Lysol Power Toilet Bowl Cleaner Gel 24oz",
+          "brand": "Lysol",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.lysol.com/products/bathroom-cleaners/"
+        },
+        {
+          "name": "Lysol Power Foaming Bathroom Cleaner 500ml",
+          "brand": "Lysol",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.amazon.com/Lysol-Bathroom-Cleaner-Island-Breeze/dp/B000V9YYMK"
+        },
+        {
+          "name": "Dettol Power & Pure Bathroom Spray 1000ml",
+          "brand": "Dettol",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.dettol.co.uk/household-disinfection/bathroom/dettol-power-pure-bathroom-spray-1000-ml/"
+        },
+        {
+          "name": "Faks Bathroom Cleaner 500ml",
+          "brand": "Faks",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.walmart.com/ip/FaLX-Quick-Foaming-Toilet-Cleaner-Cleaning-Bubble-Detergent-Powder-Bathroom-Cleanser/1383017857"
+        },
+        {
+          "name": "Bref Power Active Bathroom Cleaner 500ml",
+          "brand": "Bref",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.henkel.com/our-businesses/bref-27602"
+        },
+        {
+          "name": "Domestos Power Foam Bathroom Cleaner 450ml",
+          "brand": "Domestos",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.domestos.com/uk/products/power-foam.html"
+        },
+        {
+          "name": "Cedevita Bathroom Cleaner 500ml",
+          "brand": "Cedevita",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.cedevita.com"
+        },
+        {
+          "name": "Ajax Bathroom Cleaner 500ml",
+          "brand": "Ajax",
+          "category": "Bathroom Cleaner",
+          "image": "https://www.walmart.com/search/?query=ajax%20bathroom%20cleaner"
+        }
+      ],
+      "Floor": [
+        {
+          "name": "Mr. Proper Floor Cleaner 1L",
+          "brand": "Mr. Proper",
+          "category": "Floor",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Cif Floor Cleaner 1L",
+          "brand": "Cif",
+          "category": "Floor",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Ajax Floor Cleaner 1L",
+          "brand": "Ajax",
+          "category": "Floor",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Faks Floor Cleaner 1L",
+          "brand": "Faks",
+          "category": "Floor",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Domestos Pine Floor Cleaner 1L",
+          "brand": "Domestos",
+          "category": "Floor",
+          "sellIn": 730,
+          "quality": 54
+        }
+      ],
+
+      "Kitchen": [
+        {
+          "name": "Cif Kitchen Cleaner 500ml",
+          "brand": "Cif",
+          "category": "Kitchen",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Mr. Proper Kitchen Degreaser 500ml",
+          "brand": "Mr. Proper",
+          "category": "Kitchen",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Domestos Kitchen Cleaner 500ml",
+          "brand": "Domestos",
+          "category": "Kitchen",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Faks Kitchen Cleaner 500ml",
+          "brand": "Faks",
+          "category": "Kitchen",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "Ajax Kitchen Spray 500ml",
+          "brand": "Ajax",
+          "category": "Kitchen",
+          "sellIn": 730,
+          "quality": 53
+        }
+      ],
+
+      "Glass": [
+        {
+          "name": "Mr. Proper Glass Cleaner 500ml",
+          "brand": "Mr. Proper",
+          "category": "Glass",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Cif Glass Cleaner 500ml",
+          "brand": "Cif",
+          "category": "Glass",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Ajax Glass Cleaner 500ml",
+          "brand": "Ajax",
+          "category": "Glass",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Faks Glass Cleaner 500ml",
+          "brand": "Faks",
+          "category": "Glass",
+          "sellIn": 730,
+          "quality": 52
+        }
+      ],
+
+      "MultiPurpose": [
+        {
+          "name": "Mr. Proper Multi-Purpose Cleaner 1L",
+          "brand": "Mr. Proper",
+          "category": "MultiPurpose",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Cif Multi-Purpose Spray 1L",
+          "brand": "Cif",
+          "category": "MultiPurpose",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Lysol Multi-Purpose Cleaner 1L",
+          "brand": "Lysol",
+          "category": "MultiPurpose",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Domestos Multi-Purpose Cleaner 1L",
+          "brand": "Domestos",
+          "category": "MultiPurpose",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Faks Multi-Purpose Cleaner 1L",
+          "brand": "Faks",
+          "category": "MultiPurpose",
+          "sellIn": 730,
+          "quality": 52
+        }
+      ],
+
+      "Textile": [
+        {
+          "name": "Vanish Gold Oxi Action 500g",
+          "brand": "Vanish",
+          "category": "Textile",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Ariel Laundry Detergent 2kg",
+          "brand": "Ariel",
+          "category": "Textile",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Faks Textile Cleaner 1L",
+          "brand": "Faks",
+          "category": "Textile",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Persil Laundry Detergent 2kg",
+          "brand": "Persil",
+          "category": "Textile",
+          "sellIn": 730,
+          "quality": 54
+        }
+      ],
+
+      "Specialty": [
+        {
+          "name": "Cif Mold Remover 500ml",
+          "brand": "Cif",
+          "category": "Specialty",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Domestos Descaler 500ml",
+          "brand": "Domestos",
+          "category": "Specialty",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Ajax Metal Polish 500ml",
+          "brand": "Ajax",
+          "category": "Specialty",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Faks Wood Polish 500ml",
+          "brand": "Faks",
+          "category": "Specialty",
+          "sellIn": 730,
+          "quality": 52
+        }
+      ]
+    }
+  },
+  {
+    "Detergents": {
+      "LaundryDetergents": [
+        {
+          "name": "Ariel Liquid 2L",
+          "brand": "Ariel",
+          "category": "LaundryDetergent",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Persil Gel 2L",
+          "brand": "Persil",
+          "category": "LaundryDetergent",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Faks Powder 2kg",
+          "brand": "Faks",
+          "category": "LaundryDetergent",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Vanish Oxi Action 500g",
+          "brand": "Vanish",
+          "category": "LaundryDetergent",
+          "sellIn": 730,
+          "quality": 52
+        },
+        {
+          "name": "OMO Laundry Powder 2kg",
+          "brand": "OMO",
+          "category": "LaundryDetergent",
+          "sellIn": 730,
+          "quality": 54
+        }
+      ],
+
+      "LaundryPods": [
+        {
+          "name": "Ariel Pods 15pcs",
+          "brand": "Ariel",
+          "category": "LaundryPods",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Persil Pods 15pcs",
+          "brand": "Persil",
+          "category": "LaundryPods",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Faks Pods 12pcs",
+          "brand": "Faks",
+          "category": "LaundryPods",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "OMO Pods 12pcs",
+          "brand": "OMO",
+          "category": "LaundryPods",
+          "sellIn": 730,
+          "quality": 54
+        }
+      ],
+
+      "FabricSofteners": [
+        {
+          "name": "Lenor Fabric Softener 1L",
+          "brand": "Lenor",
+          "category": "FabricSoftener",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Faks Fabric Softener 1L",
+          "brand": "Faks",
+          "category": "FabricSoftener",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Cif Soft Fabric Conditioner 1L",
+          "brand": "Cif",
+          "category": "FabricSoftener",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Persil Softener 1L",
+          "brand": "Persil",
+          "category": "FabricSoftener",
+          "sellIn": 730,
+          "quality": 54
+        }
+      ],
+
+      "DishwashingLiquids": [
+        {
+          "name": "Fairy Lemon 500ml",
+          "brand": "Fairy",
+          "category": "Dishwashing",
+          "sellIn": 730,
+          "quality": 55
+        },
+        {
+          "name": "Somat Dishwashing Gel 500ml",
+          "brand": "Somat",
+          "category": "Dishwashing",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Faks Dishwashing Liquid 500ml",
+          "brand": "Faks",
+          "category": "Dishwashing",
+          "sellIn": 730,
+          "quality": 53
+        },
+        {
+          "name": "Cif Dishwashing Gel 500ml",
+          "brand": "Cif",
+          "category": "Dishwashing",
+          "sellIn": 730,
+          "quality": 54
+        },
+        {
+          "name": "Pril Lemon 500ml",
+          "brand": "Pril",
+          "category": "Dishwashing",
+          "sellIn": 730,
+          "quality": 55
+        }
+      ]
+    }
+  },
+  {
+    "Home décor": {
+      "Glassware": [
+        {
+          "name": "250ml Glass",
+          "category": "Glassware",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "330ml Glass",
+          "category": "Glassware",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Wine Glass 200ml",
+          "category": "Glassware",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Juice Glass 300ml",
+          "category": "Glassware",
+          "sellIn": 1825,
+          "quality": 51
+        }
+      ],
+
+      "Dinnerware": [
+        {
+          "name": "Vase",
+          "category": "Dinnerware",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Plate",
+          "category": "Dinnerware",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Soup Bowl",
+          "category": "Dinnerware",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Pasta Plate",
+          "category": "Dinnerware",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Serving Plate",
+          "category": "Dinnerware",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Bowl 500ml",
+          "category": "Dinnerware",
+          "sellIn": 1825,
+          "quality": 53
+        }
+      ],
+
+      "Cutlery": [
+        {
+          "name": "Spoon Set 6pcs",
+          "category": "Cutlery",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Fork Set 6pcs",
+          "category": "Cutlery",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Knife Set 6pcs",
+          "category": "Cutlery",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Serving Spoon",
+          "category": "Cutlery",
+          "sellIn": 1825,
+          "quality": 51
+        }
+      ],
+
+      "KitchenTools": [
+        {
+          "name": "Straws 20pcs",
+          "category": "KitchenTools",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Cutter Knife",
+          "category": "KitchenTools",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Rolling Pin",
+          "category": "KitchenTools",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Mixing Bowl 1L",
+          "category": "KitchenTools",
+          "sellIn": 1825,
+          "quality": 52
+        }
+      ],
+
+      "Textiles": [
+        {
+          "name": "Bath Towel 70x140cm",
+          "category": "Textiles",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Hand Towel 30x50cm",
+          "category": "Textiles",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Kitchen Towel 50x70cm",
+          "category": "Textiles",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Table Napkins 20pcs",
+          "category": "Textiles",
+          "sellIn": 1825,
+          "quality": 52
+        }
+      ],
+
+      "Candles": [
+        {
+          "name": "Small Candle 50g",
+          "category": "Candles",
+          "sellIn": 1095,
+          "quality": 50
+        },
+        {
+          "name": "Medium Candle 100g",
+          "category": "Candles",
+          "sellIn": 1095,
+          "quality": 52
+        },
+        {
+          "name": "Large Candle 200g",
+          "category": "Candles",
+          "sellIn": 1095,
+          "quality": 54
+        }
+      ]
+    }
+  },
+  {
+    "Tools": {
+      "HandTools": [
+        {
+          "name": "Hammer",
+          "category": "HandTools",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Screwdriver Set 6pcs",
+          "category": "HandTools",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Pliers",
+          "category": "HandTools",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Adjustable Wrench",
+          "category": "HandTools",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Measuring Tape 5m",
+          "category": "HandTools",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Utility Knife",
+          "category": "HandTools",
+          "sellIn": 1825,
+          "quality": 51
+        },
+        {
+          "name": "Handsaw",
+          "category": "HandTools",
+          "sellIn": 1825,
+          "quality": 50
+        }
+      ],
+
+      "PowerTools": [
+        {
+          "name": "Drill Machine 500W",
+          "category": "PowerTools",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Electric Screwdriver 12V",
+          "category": "PowerTools",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Angle Grinder 750W",
+          "category": "PowerTools",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Jigsaw 600W",
+          "category": "PowerTools",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Cordless Drill 18V",
+          "category": "PowerTools",
+          "sellIn": 1825,
+          "quality": 55
+        }
+      ],
+
+      "WorkshopTools": [
+        {
+          "name": "Workbench",
+          "category": "WorkshopTools",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Tool Box 24in",
+          "category": "WorkshopTools",
+          "sellIn": 1825,
+          "quality": 51
+        },
+        {
+          "name": "Clamps Set 4pcs",
+          "category": "WorkshopTools",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Drill Bits Set 20pcs",
+          "category": "WorkshopTools",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Sandpaper Set 10pcs",
+          "category": "WorkshopTools",
+          "sellIn": 1825,
+          "quality": 50
+        }
+      ]
+    }
+  },
+  {
+    "Garden": {
+      "Flowers": [
+        { "name": "Rose", "category": "Flowers", "sellIn": 30, "quality": 40 },
+        { "name": "Tulip", "category": "Flowers", "sellIn": 30, "quality": 38 },
+        {
+          "name": "Orchid",
+          "category": "Flowers",
+          "sellIn": 30,
+          "quality": 42
+        },
+        {
+          "name": "Sunflower",
+          "category": "Flowers",
+          "sellIn": 30,
+          "quality": 37
+        },
+        { "name": "Lily", "category": "Flowers", "sellIn": 30, "quality": 39 },
+        { "name": "Daisy", "category": "Flowers", "sellIn": 30, "quality": 36 },
+        {
+          "name": "Lavender",
+          "category": "Flowers",
+          "sellIn": 30,
+          "quality": 41
+        }
+      ],
+
+      "Trees": [
+        {
+          "name": "Money Tree",
+          "category": "Trees",
+          "sellIn": 365,
+          "quality": 50
+        },
+        {
+          "name": "Cat Palm",
+          "category": "Trees",
+          "sellIn": 365,
+          "quality": 48
+        },
+        {
+          "name": "Mass Cane",
+          "category": "Trees",
+          "sellIn": 365,
+          "quality": 49
+        },
+        {
+          "name": "Olive Tree",
+          "category": "Trees",
+          "sellIn": 365,
+          "quality": 52
+        },
+        {
+          "name": "Lemon Tree",
+          "category": "Trees",
+          "sellIn": 365,
+          "quality": 51
+        }
+      ],
+
+      "Seeds": [
+        {
+          "name": "Tomato Seed",
+          "category": "Seeds",
+          "sellIn": 180,
+          "quality": 30
+        },
+        {
+          "name": "Rose Seed",
+          "category": "Seeds",
+          "sellIn": 180,
+          "quality": 32
+        },
+        {
+          "name": "Cucumber Seed",
+          "category": "Seeds",
+          "sellIn": 180,
+          "quality": 28
+        },
+        {
+          "name": "Carrot Seed",
+          "category": "Seeds",
+          "sellIn": 180,
+          "quality": 29
+        },
+        {
+          "name": "Pepper Seed",
+          "category": "Seeds",
+          "sellIn": 180,
+          "quality": 31
+        }
+      ],
+
+      "GardeningTools": [
+        {
+          "name": "Garden Shovel",
+          "category": "GardeningTools",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Garden Rake",
+          "category": "GardeningTools",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Pruning Shears",
+          "category": "GardeningTools",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Watering Can 5L",
+          "category": "GardeningTools",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Garden Gloves",
+          "category": "GardeningTools",
+          "sellIn": 1825,
+          "quality": 51
+        }
+      ]
+    }
+  },
+  {
+    "Outdoor": [
+      {
+        "name": "Camping Tent 2-Person",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 60
+      },
+      {
+        "name": "Camping Tent 4-Person",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 62
+      },
+      {
+        "name": "Sleeping Bag - Lightweight",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 58
+      },
+      {
+        "name": "Sleeping Bag - Winter",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 60
+      },
+      {
+        "name": "Hiking Backpack 30L",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 57
+      },
+      {
+        "name": "Hiking Backpack 50L",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 59
+      },
+      {
+        "name": "Picnic Blanket",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 55
+      },
+      {
+        "name": "Garden Chair",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 56
+      },
+      {
+        "name": "Folding Table",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 58
+      },
+      {
+        "name": "Portable BBQ Grill",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 60
+      },
+      {
+        "name": "Camping Stove",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 57
+      },
+      {
+        "name": "Lantern LED",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 55
+      },
+      {
+        "name": "Camping Chair",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 56
+      },
+      {
+        "name": "Hammock",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 54
+      },
+      {
+        "name": "Inflatable Mattress",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 53
+      },
+      {
+        "name": "Cooler Box 20L",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 52
+      },
+      {
+        "name": "Water Bottle 1L",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 51
+      },
+      {
+        "name": "Trekking Poles",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 50
+      },
+      {
+        "name": "Sleeping Pad",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 49
+      },
+      {
+        "name": "Camping Cookware Set",
+        "category": "Outdoor",
+        "sellIn": 1825,
+        "quality": 55
+      }
+    ]
+  },
+  {
+    "Kitchen": {
+      "Baking": [
+        {
+          "name": "Baking Tray 30x40cm",
+          "category": "Baking",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Cake Pan 24cm",
+          "category": "Baking",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Muffin Tray 12pcs",
+          "category": "Baking",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Pizza Pan 32cm",
+          "category": "Baking",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Loaf Pan 28cm",
+          "category": "Baking",
+          "sellIn": 1825,
+          "quality": 53
+        }
+      ],
+
+      "Mixing": [
+        {
+          "name": "Mixing Bowl 1L",
+          "category": "Mixing",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Mixing Bowl 2L",
+          "category": "Mixing",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Mixing Bowl 3L",
+          "category": "Mixing",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Stainless Steel Bowl 2L",
+          "category": "Mixing",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Glass Mixing Bowl 1.5L",
+          "category": "Mixing",
+          "sellIn": 1825,
+          "quality": 52
+        }
+      ],
+
+      "RollingAndCutting": [
+        {
+          "name": "Rolling Pin Wooden 40cm",
+          "category": "RollingAndCutting",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Pastry Cutter",
+          "category": "RollingAndCutting",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Dough Scraper",
+          "category": "RollingAndCutting",
+          "sellIn": 1825,
+          "quality": 51
+        },
+        {
+          "name": "Pizza Cutter",
+          "category": "RollingAndCutting",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Cookie Cutter Set 10pcs",
+          "category": "RollingAndCutting",
+          "sellIn": 1825,
+          "quality": 52
+        }
+      ],
+
+      "Serving": [
+        {
+          "name": "Serving Spoon",
+          "category": "Serving",
+          "sellIn": 1825,
+          "quality": 51
+        },
+        {
+          "name": "Serving Fork",
+          "category": "Serving",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Salad Tongs",
+          "category": "Serving",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Ladle",
+          "category": "Serving",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Spatula",
+          "category": "Serving",
+          "sellIn": 1825,
+          "quality": 51
+        }
+      ],
+
+      "Utensils": [
+        {
+          "name": "Whisk",
+          "category": "Utensils",
+          "sellIn": 1825,
+          "quality": 50
+        },
+        {
+          "name": "Peeler",
+          "category": "Utensils",
+          "sellIn": 1825,
+          "quality": 51
+        },
+        {
+          "name": "Grater",
+          "category": "Utensils",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Measuring Cups Set",
+          "category": "Utensils",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Measuring Spoons Set",
+          "category": "Utensils",
+          "sellIn": 1825,
+          "quality": 52
+        }
+      ]
+    }
+  },
+  {
+    "Appliances": {
+      "Blenders": [
+        {
+          "name": "Hand Blender 300W",
+          "category": "Blenders",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Stand Blender 500W",
+          "category": "Blenders",
+          "sellIn": 1825,
+          "quality": 56
+        },
+        {
+          "name": "Smoothie Blender 600W",
+          "category": "Blenders",
+          "sellIn": 1825,
+          "quality": 57
+        }
+      ],
+
+      "MicrowaveOvens": [
+        {
+          "name": "Microwave Oven 20L",
+          "category": "MicrowaveOvens",
+          "sellIn": 1825,
+          "quality": 60
+        },
+        {
+          "name": "Microwave Oven 25L",
+          "category": "MicrowaveOvens",
+          "sellIn": 1825,
+          "quality": 61
+        },
+        {
+          "name": "Microwave Oven 30L",
+          "category": "MicrowaveOvens",
+          "sellIn": 1825,
+          "quality": 62
+        }
+      ],
+
+      "Toasters": [
+        {
+          "name": "2-Slice Toaster",
+          "category": "Toasters",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "4-Slice Toaster",
+          "category": "Toasters",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Long Slot Toaster",
+          "category": "Toasters",
+          "sellIn": 1825,
+          "quality": 56
+        }
+      ],
+
+      "CoffeeMakers": [
+        {
+          "name": "Drip Coffee Maker 1L",
+          "category": "CoffeeMakers",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Espresso Machine 15bar",
+          "category": "CoffeeMakers",
+          "sellIn": 1825,
+          "quality": 57
+        },
+        {
+          "name": "Single Serve Coffee Maker",
+          "category": "CoffeeMakers",
+          "sellIn": 1825,
+          "quality": 56
+        }
+      ],
+
+      "Kettles": [
+        {
+          "name": "Electric Kettle 1.7L",
+          "category": "Kettles",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Glass Kettle 1.5L",
+          "category": "Kettles",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Stainless Steel Kettle 1.8L",
+          "category": "Kettles",
+          "sellIn": 1825,
+          "quality": 56
+        }
+      ]
+    }
+  },
+  {
+    "Fitness": {
+      "Weights": [
+        {
+          "name": "Dumbbell 2kg",
+          "category": "Weights",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Dumbbell 5kg",
+          "category": "Weights",
+          "sellIn": 1825,
+          "quality": 56
+        },
+        {
+          "name": "Dumbbell 10kg",
+          "category": "Weights",
+          "sellIn": 1825,
+          "quality": 57
+        },
+        {
+          "name": "Kettlebell 4kg",
+          "category": "Weights",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Kettlebell 8kg",
+          "category": "Weights",
+          "sellIn": 1825,
+          "quality": 56
+        },
+        {
+          "name": "Kettlebell 12kg",
+          "category": "Weights",
+          "sellIn": 1825,
+          "quality": 57
+        }
+      ],
+
+      "Yoga": [
+        {
+          "name": "Yoga Mat 4mm",
+          "category": "Yoga",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Yoga Mat 6mm",
+          "category": "Yoga",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Yoga Block Set 2pcs",
+          "category": "Yoga",
+          "sellIn": 1825,
+          "quality": 53
+        },
+        {
+          "name": "Yoga Strap",
+          "category": "Yoga",
+          "sellIn": 1825,
+          "quality": 52
+        }
+      ],
+
+      "FitnessDevices": [
+        {
+          "name": "Heart Rate Monitor",
+          "category": "FitnessDevices",
+          "sellIn": 1825,
+          "quality": 55
+        },
+        {
+          "name": "Step Counter",
+          "category": "FitnessDevices",
+          "sellIn": 1825,
+          "quality": 54
+        },
+        {
+          "name": "Smartwatch Fitness Tracker",
+          "category": "FitnessDevices",
+          "sellIn": 1825,
+          "quality": 56
+        },
+        {
+          "name": "Resistance Band Set",
+          "category": "FitnessDevices",
+          "sellIn": 1825,
+          "quality": 53
+        }
+      ],
+
+      "Cardio": [
+        {
+          "name": "Jump Rope",
+          "category": "Cardio",
+          "sellIn": 1825,
+          "quality": 52
+        },
+        {
+          "name": "Exercise Bike",
+          "category": "Cardio",
+          "sellIn": 1825,
+          "quality": 60
+        },
+        {
+          "name": "Treadmill",
+          "category": "Cardio",
+          "sellIn": 1825,
+          "quality": 62
+        },
+        {
+          "name": "Elliptical Trainer",
+          "category": "Cardio",
+          "sellIn": 1825,
+          "quality": 61
+        }
+      ]
+    }
+  }
+]
