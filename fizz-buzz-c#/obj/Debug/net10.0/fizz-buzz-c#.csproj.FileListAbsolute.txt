@@ -1,0 +1,15 @@
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\bin\Debug\net10.0\fizz-buzz-c#.exe
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\bin\Debug\net10.0\fizz-buzz-c#.deps.json
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\bin\Debug\net10.0\fizz-buzz-c#.runtimeconfig.json
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\bin\Debug\net10.0\fizz-buzz-c#.dll
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\bin\Debug\net10.0\fizz-buzz-c#.pdb
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\fizz-buzz-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\fizz-buzz-c#.AssemblyInfoInputs.cache
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\fizz-buzz-c#.AssemblyInfo.cs
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\fizz-buzz-c#.csproj.CoreCompileInputs.cache
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\fizz-buzz-c#.sourcelink.json
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\fizz-buzz-c#.dll
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\refint\fizz-buzz-c#.dll
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\fizz-buzz-c#.pdb
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\fizz-buzz-c#.genruntimeconfig.cache
+C:\Users\stoja\Projects\KataDev\fizz-buzz-c#\obj\Debug\net10.0\ref\fizz-buzz-c#.dll
